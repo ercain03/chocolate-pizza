@@ -1,0 +1,156 @@
+header{
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-bottom: 10px;
+}
+
+.recipe-back {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;;
+  background-image: url(image/list-bg.png);
+  margin-bottom: 30px;
+  font-family: 'Patrick Hand', cursive;
+  font-weight: 400;
+}
+
+.recipe-back ul{
+  list-style-type:none;
+  width: 250px;
+  padding: 0px;
+  margin: 0;
+  float: left;
+}
+
+body {
+  width: 700px;
+  margin: 0 auto;
+}
+
+#choco-title h1 {
+  font-family: 'Fjalla One', sans-serif;
+}
+
+#light-space {
+  margin-left: 5px;
+}
+
+p {
+  text-indent: 40px;
+}
+
+.icons {
+  float: right;
+}
+
+.logo-text {
+  font-family: 'Lobster', cursive;
+}
+
+#pic-resize {
+  width: 700px;
+}
+
+#wrapper {
+  width: 300px;
+}
+
+#main-logo{
+  float: left;
+}
+
+#small-print {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+#printed {
+  height: 10px;
+}
+
+#sub-head {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#date{
+  margin-top: 0px;
+}
+
+h1{
+  margin-bottom: 0px;
+}
+
+header h2{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+header h6{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: gray;
+}
+
+
+#content {
+  margin-top: 15px;
+  padding-top: 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-bottom: 10px;
+}
+
+#blogger img{
+  float: left;
+  margin-right: 10px;
+}
+
+#blogger p{
+  text-indent: 0px;
+  margin: 0px;
+}
+
+footer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+button {
+  background-color: #bc7058;
+  width: 150px;
+  height: 40px;
+  color: white;
+  font-size: 15px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  border-color: #bc7058;
+}
+
+footer img{
+  width: 31px;
+  height: 33px;
+  margin: 15px auto;
+}
+
+footer h6{
+  margin: 0px auto;
+}
+
+.main-cake img {
+  width: 700px;
+  margin: 0 auto;
+}
+
+hr {
+	height: 6px;
+	background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
+  border: 0;
+  margin-bottom: 20px;
+}
