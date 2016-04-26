@@ -11,7 +11,7 @@ header{
   flex-direction: row;
   justify-content: center;
   align-items: flex-start;;
-  background-image: url(image/list-bg.png);
+  background-image: url(https://github.com/ercain03/chocolate-pizza/blob/master/images/list-bg.png?raw=true);
   margin-bottom: 30px;
   font-family: 'Patrick Hand', cursive;
   font-weight: 400;
